@@ -1,0 +1,19 @@
+[component "org.tmatesoft.communism.communism-git"]
+	version = 1.0.1-SNAPSHOT
+	number = 213
+	commit = 3732eeea73af0fed1c8fe1675982549d98fed402
+	builder = communism_git
+	time = 2021-11-08T14:25:42Z
+[component "org.tmatesoft.communism.communism-util"]
+	version = 1.0.1-SNAPSHOT
+	number = 118
+	commit = 625e3385ddedbe0c54bc06229e4ce29bfe56e96f
+	builder = communism_util
+	time = 2021-10-19T11:52:33Z
+[component "org.tmatesoft.gitx.gitx-core"]
+	version = 1.0.1-SNAPSHOT
+	number = 788
+	commit = 32a3d4193fc6282d05e52e57dff6c346b1af00ba
+	builder = gitx-core
+	time = 2021-11-15T18:59:07Z
+	format = 1.0.0
