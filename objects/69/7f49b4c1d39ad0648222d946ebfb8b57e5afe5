@@ -5,3 +5,7 @@
 	object = 48df54f2f14d5e2b5998d3d37c9899fdc0576d0b
 	path = module
 	type = expand module
+[map "ee89ecd8-cb27-3379-ab93-6d63f763e062"]
+	object = 5fe3e68dfddf0cba5366b99fc9dfe5c7b2e83cfe
+	path = module
+	type = expand module
